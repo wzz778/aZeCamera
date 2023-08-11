@@ -165,6 +165,7 @@ return (
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/26685644/1691053981755-729789b6-4230-4874-8fd8-8b8362b22008.png#averageHue=%23b0b0a6&clientId=u7c1774ef-c32d-4&from=paste&height=343&id=u262793db&originHeight=755&originWidth=465&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=311101&status=done&style=none&taskId=u7f54c9f3-6a7c-4d9f-af3f-43086680f3d&title=&width=211)
 ### 上传界面
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/26685644/1691053934026-4740154b-3a72-4bcc-ac59-cfe407aca8ed.png#averageHue=%23938b7d&clientId=u7c1774ef-c32d-4&from=paste&height=339&id=ue36aac12&originHeight=727&originWidth=463&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=327695&status=done&style=none&taskId=u548bbf19-b5c3-4f01-a4cf-bb5c2b94d5c&title=&width=215.66668701171875)
+
 点击上传，调用handleUploadPhoto函数，返回图片的64编码
 ## 后言
 功能pc，移动端都能使用，但样式主要适配了移动端，样式也可根据自己需求自行调整。
